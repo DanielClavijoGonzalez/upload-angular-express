@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielClavijoGonzalez/upload-angular-express.git"
+    "url": "git+https://github.com/dclavijo45/upload-angular-express.git"
   },
-  "author": "Dclavijo4",
+  "author": "dclavijo45",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DanielClavijoGonzalez/upload-angular-express/issues"
+    "url": "https://github.com/dclavijo45/upload-angular-express/issues"
   },
-  "homepage": "https://github.com/DanielClavijoGonzalez/upload-angular-express#readme",
+  "homepage": "https://github.com/dclavijo45/upload-angular-express#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.1"
