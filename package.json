@@ -1,0 +1,23 @@
+{
+  "name": "upload-angular-express",
+  "version": "1.0.0",
+  "description": "Template for upload a angular app using express in node as server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielClavijoGonzalez/upload-angular-express.git"
+  },
+  "author": "Dclavijo4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielClavijoGonzalez/upload-angular-express/issues"
+  },
+  "homepage": "https://github.com/DanielClavijoGonzalez/upload-angular-express#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
